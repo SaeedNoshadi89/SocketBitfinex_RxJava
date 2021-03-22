@@ -1,7 +1,6 @@
 package com.sn.data.di
 
 import android.app.Application
-import androidx.lifecycle.Lifecycle
 import com.sn.data.remote.BitfinexApi
 import com.sn.data.remote.BitfinexDataSource
 import com.sn.data.remote.BitfinexDataSourceImpl
